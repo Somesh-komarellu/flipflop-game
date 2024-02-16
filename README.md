@@ -1,1 +1,1 @@
-# flipflop-game
+# memory puzzle-game
